@@ -55,7 +55,6 @@ python tugas/normalisasi_data_mahasiswa.py
 | 4 | siti nur aisyah | kelas c | Siti Nur Aisyah | KELAS-C | SNA | Lulus |
 
 
-**Catatan:** Ubah status pengujian menjadi **Lulus** setelah setiap kasus benar-benar dijalankan dan hasil aktualnya sesuai hasil yang diharapkan.
 
 ## 6. Refleksi
 
