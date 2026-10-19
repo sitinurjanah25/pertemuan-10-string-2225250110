@@ -21,6 +21,10 @@ Mempelajari penggunaan string dalam Python, meliputi indeks, slicing, metode str
 - `latihan/06_pencarian_kata.py`: mencari kata dalam teks.
 - `tugas/normalisasi_data_mahasiswa.py`: normalisasi data mahasiswa.
 
+
+- `.gitignore`: mengabaikan file cache Python dan pengaturan VS Code.
+- `Jawaban Kuis Formatif Pertemuan 10.docx`: berisi jawaban kuis formatif.
+
 ## 3. Cara Menjalankan Program
 
 Buka terminal pada folder proyek, kemudian jalankan salah satu perintah berikut:
@@ -65,3 +69,5 @@ Melalui latihan ini, saya mempelajari cara mengolah string menggunakan berbagai 
 Materi utama: Bahan Ajar Algoritma dan Pemrograman, Pertemuan 10 — String dan Pengolahan Teks dalam Python.
 
 Bantuan AI digunakan untuk membantu memahami materi dan menyusun kode program.
+
+
